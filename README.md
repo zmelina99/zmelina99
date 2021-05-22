@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm Melina</h1>
 <h3 align="center">A Junior Fullstak Web Developer who loves challenges</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zmelina99&label=Profile%20views&color=0e75b6&style=flat" alt="zmelina99" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zmelina99" alt="zmelina99" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/meluzellweger" target="blank"><img src="https://img.shields.io/twitter/follow/meluzellweger?logo=twitter&style=for-the-badge" alt="meluzellweger" /></a> </p>
 
 - 👯 I’m currently working on [Integra platform, a system to digitalize Medical Services](https://github.com/Ululette/PF8Samurai)
 
