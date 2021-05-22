@@ -1,4 +1,4 @@
-<img
+<img src= 'https://user-images.githubusercontent.com/72397189/119241916-3d86c980-bb30-11eb-9616-bcfb64f19a3b.gif' alt=''/>
 <h1 align="center">Hi 👋, I'm Melina</h1>
 <h3 align="center">A Junior Fullstak Web Developer who loves challenges</h3>
 
