@@ -11,8 +11,8 @@
 
 
 
-[![WhatsApp](assets/WhatsApp.svg.png)](https://wa.link/clgk4r)
-[![LinkedIn](assets/linkedin.png)](https://www.linkedin.com/in/sebastiansanchezisame/)
+<img src= '[![WhatsApp](assets/WhatsApp.svg.png)](https://wa.link/clgk4r)' alt = '' height=40px />
+     [![LinkedIn](assets/linkedin.png)](www.linkedin.com/in/melina-zellweger-)
 
 
 
