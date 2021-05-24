@@ -1,14 +1,7 @@
 <img src= "./assets/Welcome (2).gif" alt=''/>
-<h3 align="center">A Junior Fullstak Web Developer who loves challenges</h3>
 
+<img src= "./assets/infos.gif" alt=''/>
 
-- 👯 I’m currently working on [Integra platform, a system to digitalize Medical Services](https://github.com/Ululette/PF8Samurai)
-
-- 🔭 My final individual project was ['Meli's dog world', an app to find and create different dog breeds.](segrsddshgs)
-
-- 🔭 My first app was [Rick and Morty app, where you can find all the characters from the TV show and see their personal information](dgesfargse)
-
-- 👨‍💻 All of my projects are available at [asfsvsvwef](asfsvsvwef)
 
 <img src= "./assets/tools.gif" alt=''/>
 
