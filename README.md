@@ -1,5 +1,4 @@
 <img src= "./assets/Welcome (2).gif" alt=''/>
-<h1 align="center">Hi 👋, I'm Melina</h1>
 <h3 align="center">A Junior Fullstak Web Developer who loves challenges</h3>
 
 
@@ -11,6 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [asfsvsvwef](asfsvsvwef)
 
+<img src= "./assets/Welcome (3).gif" alt=''/>
 
 <h3 align="left">Technologies and tools I have experience with: </h3>
 
