@@ -15,6 +15,7 @@
 <div align = center>
   <a href="https://wa.link/clgk4r" target="_blank"> <img src="./assets/WhatsApp.svg.png" alt="wpp" width="auto" height="60"/></a> 
 <a href="https://www.linkedin.com/in/melina-zellweger-" target="_blank"> <img src="./assets/linkedin.png" alt="in" width="auto" height="60"/></a> 
+  <a href="https://www.linkedin.com/in/melina-zellweger-" target="_blank"> <img src="./assets/WhatsApp Image 2021-05-24 at 15.17.05.jpeg" alt="in" width="auto" height="60"/></a> 
   </div>
 
 
