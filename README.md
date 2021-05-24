@@ -8,7 +8,7 @@
 
 <img src= "./assets/Welcome (3).gif" alt=''/>
 <img src= "./" alt=''/>
-[![LinkedIn](assets/WhatsApp.svg.png)](https://wa.link/clgk4r)
+[![WhatsApp](assets/WhatsApp.svg.png)](https://wa.link/clgk4r)
 
 
 
