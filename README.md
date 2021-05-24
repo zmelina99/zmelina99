@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [asfsvsvwef](asfsvsvwef)
 
-<img src= "./assets/Welcome (3).gif" alt=''/>
+<img src= "./assets/tools.gif" alt=''/>
 
 <h3 align="left">Technologies and tools I have experience with: </h3>
 
