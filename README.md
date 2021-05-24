@@ -11,8 +11,9 @@
 
 
 
-[![WhatsApp](assets/WhatsApp.svg.png)](https://wa.link/clgk4r)
-[![LinkedIn](assets/linkedin.png)](https://www.linkedin.com/in/melina-zellweger-)
+
+<a href="https://wa.link/clgk4r" target="_blank"> <img src="./assets/WhatsApp.svg.png" alt="wpp" width="auto" height="40"/></a> 
+<a href="https://www.linkedin.com/in/melina-zellweger-" target="_blank"> <img src="./assets/linkedin.png" alt="in" width="auto" height="40"/></a> 
 
 
 
