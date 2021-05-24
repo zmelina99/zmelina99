@@ -12,7 +12,7 @@
 
 
 [![WhatsApp](assets/WhatsApp.svg.png)](https://wa.link/clgk4r)
-[![LinkedIn](assets/linkedin.png)](www.linkedin.com/in/melina-zellweger-)
+[![LinkedIn](assets/linkedin.png)](https://www.linkedin.com/in/melina-zellweger-)
 
 
 
