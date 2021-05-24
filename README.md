@@ -8,7 +8,11 @@
 
 <img src= "./assets/Welcome (3).gif" alt=''/>
 <img src= "./" alt=''/>
+
+
+
 [![WhatsApp](assets/WhatsApp.svg.png)](https://wa.link/clgk4r)
+[![LinkedIn](assets/linkedin.png)](https://www.linkedin.com/in/sebastiansanchezisame/)
 
 
 
