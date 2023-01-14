@@ -1,7 +1,7 @@
 
 <img src= "./assets/Welcome.gif" alt=''/>
 
-<img src= "./assets/infos2.gif" alt=''/>
+<img src= "./assets/description.gif" alt=''/>
 
 
 <img src= "./assets/technologies.gif" alt=''/>
