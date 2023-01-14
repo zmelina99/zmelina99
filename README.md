@@ -4,7 +4,7 @@
 <img src= "./assets/infos2.gif" alt=''/>
 
 
-<img src= "./assets/tools.gif" alt=''/>
+<img src= "./assets/technologies.gif" alt=''/>
 
 
 <img src= "![Welcome](https://user-images.githubusercontent.com/72397189/212485487-6c65dbd4-4d17-4a52-9f38-8b71b5e6d864.gif)" alt=''/>
