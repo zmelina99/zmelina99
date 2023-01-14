@@ -1,5 +1,5 @@
 
-<img src= "./assets/Welcome (2).gif" alt=''/>
+<img src= "./assets/Welcome.gif" alt=''/>
 
 <img src= "./assets/infos2.gif" alt=''/>
 
