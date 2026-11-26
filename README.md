@@ -20,24 +20,28 @@
   <img src="./assets/impact-desktop-light.svg" width="100%" alt="Impact in numbers: ~5× faster client onboarding; 1 → 5+ enterprise clients on a shared codebase; ~50% shorter feature delivery cycles; ~40% less per-client customization; ~65% fewer failed recordings; ~70% test coverage with Jest and Cypress" />
 </picture>
 
+<details>
+<summary>Impact metrics as text</summary>
+
+- **Hivepower:** ~5× faster client onboarding · 1 → 5+ enterprise clients on a shared codebase · ~50% shorter feature delivery cycles · ~40% less per-client customization
+- **ClearMix:** ~65% fewer failed recordings · ~70% test coverage with Jest and Cypress
+
+</details>
+
 ## Selected work
 
 ### [Hivepower · Enterprise Energy Platform ↗](https://melina-zellweger.vercel.app/#case-studies)
 
 `Private enterprise codebase` · Full-Stack Engineer (Frontend Lead) · 2023 – 2025
 
-Owned the frontend architecture of a multi-tenant whitelabel platform for web, iOS and Android. Brand themes, feature flags and i18n turned each new enterprise client into configuration instead of a rebuild. Built the real-time energy data visualization system, led performance work and owned production releases.
-
-**Impact:** 1 → 5+ enterprise clients on one codebase · ~5× faster onboarding · ~40% less per-client customization · ~50% shorter delivery cycles\
-<sub>React · TypeScript · Nx · Ionic · Capacitor · D3 · Recharts · Visx · [Case studies on my portfolio ↗](https://melina-zellweger.vercel.app/#case-studies)</sub>
+Owned the frontend architecture of a multi-tenant whitelabel platform for web, iOS and Android. Brand themes, feature flags and i18n turned each new enterprise client into configuration instead of a rebuild. Built the real-time energy data visualization system, led performance work and owned production releases.\
+<sub>React · TypeScript · Nx · Ionic · Capacitor · D3 · Recharts · Visx</sub>
 
 ### ClearMix · Media & Logistics Platform
 
 `Private enterprise codebase` · Frontend Engineer · 2021 – 2022
 
-Led the real-time scheduling and logistics app, helped architect a cloud-synced virtual recording studio, and strengthened automated testing across the frontend.
-
-**Impact:** ~65% fewer failed recordings · ~70% test coverage\
+Led development of the real-time scheduling and logistics app, helped architect a cloud-synced virtual recording studio and strengthened automated testing across the frontend.\
 <sub>React · Next.js · Google Maps · Jest · Cypress · [Experience on my portfolio ↗](https://melina-zellweger.vercel.app/#experience)</sub>
 
 ### [Bilingue.ch · Client Project ↗](https://bilingue-eta.vercel.app/)
@@ -45,14 +49,14 @@ Led the real-time scheduling and logistics app, helped architect a cloud-synced 
 `Preview deployment` `Public repository` · Software Engineer & Technical Consultant · 2026 – present
 
 Owned delivery end to end for a language-coaching business: client discovery and requirements, UX/UI design, then a reusable Next.js architecture with German, French and English content, multilingual metadata, sitemaps and technical SEO.\
-<sub>Next.js · TypeScript · Tailwind CSS · [Preview ↗](https://bilingue-eta.vercel.app/) · [Code ↗](https://github.com/zmelina99/bilingue)</sub>
+<sub>Next.js · TypeScript · Tailwind CSS · [Code ↗](https://github.com/zmelina99/bilingue)</sub>
 
 ### [Personal Portfolio ↗](https://melina-zellweger.vercel.app/)
 
 `Production` `Public repository` · Design and development
 
 Designed and built my personal site: an underwater visual identity, interactive depth navigation, case studies and three languages.\
-<sub>Next.js · TypeScript · Tailwind CSS · shadcn/ui · [Live website ↗](https://melina-zellweger.vercel.app/) · [Code ↗](https://github.com/zmelina99/portfolio)</sub>
+<sub>Next.js · TypeScript · Tailwind CSS · shadcn/ui · [Code ↗](https://github.com/zmelina99/portfolio)</sub>
 
 ## Technical expertise
 
@@ -76,7 +80,7 @@ Designed and built my personal site: an underwater visual identity, interactive 
 
 ## Beyond the code
 
-PADI scuba diving instructor (hence the whale shark), certified ski instructor, and qualified for the 2026 Swiss National Weightlifting Championship. Teaching divers and skiers in three languages is where I learned to explain complex things simply.
+PADI scuba diving instructor (hence the whale shark), certified ski instructor, and qualified for the 2026 Swiss National Weightlifting Championship. Teaching divers in three languages, and skiers of every age and level, is where I learned to explain complex things simply.
 
 ## Contact
 
