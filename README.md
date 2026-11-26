@@ -2,26 +2,68 @@
   <img src="./assets/banner.png" width="100%" alt="Mountain landscape with snowy peaks and golden larches, with the handwritten greeting “Hi, I'm Melina”" />
 </p>
 
-<h3 align="center">Implementation &amp; Solutions Engineer · Switzerland</h3>
-<p align="center"><em>At the intersection of people, product and technology</em></p>
+<h3 align="center">Full-Stack &amp; Frontend Engineer · Implementation &amp; Solutions</h3>
+<p align="center">I turn client needs into production software with React, Next.js, TypeScript and Node.js.<br/>
+<sub>Switzerland · Remote · Open to frontend, full-stack, implementation, solutions and forward deployed engineer roles</sub></p>
 
 ## About me
 
-Engineer with 4+ years building and shipping B2B and B2B2C products for enterprise clients. I'm at my best understanding what needs to be solved, communicating across teams, and building the solution when needed. Alongside my engineering background, I bring experience in sales, teaching and product presentations.
+Software engineer with 4+ years building and shipping enterprise web and mobile apps. At Hivepower I grew from individual contributor to frontend lead, owning the architecture of a whitelabel platform that serves 5+ enterprise clients. I work directly with clients and take products from requirements to production. I'm currently training in forward deployed engineering and AI.
 
-- **Hivepower** · Implementation & Solutions Engineer (Frontend Lead) · Feb 2023 – Dec 2025\
-  Grew from individual contributor to frontend lead. Built a client's energy-consumption app end to end, and a whitelabel platform (React, Ionic/Capacitor, Nx) that took Hivepower from 1 to 5+ enterprise clients and cut new-client launch time by ~5×.
-- **ClearMix** · Frontend Engineer · Jul 2021 – Dec 2022\
-  Led frontend development of ClearMix Logistics (Next.js, Google Maps API) and co-built ClearMix Intros, a video-personalization feature for new-customer acquisition.
-- **Languages** · Spanish (native) · English (C2) · French (B1)
+**What I bring**
+
+- **Client-facing delivery:** discovery, requirements and specs with clients, design and backend teams, then shipping and supporting what we agreed.
+- **Frontend depth:** architecture, reusable component systems, real-time data visualization, performance profiling, accessibility (WCAG) and i18n.
+- **Full-stack and cloud:** Node.js, Express and FastAPI services, PostgreSQL, plus Docker, Kubernetes, GCP and Vercel deployments.
+- **AI-assisted engineering:** coding agents for refactoring, test scaffolding and design-to-code, and an LLM-powered agent of my own ([ApplyPilot](#applypilot)).
+- **Teaching and sales background:** ski and scuba instructor, bootcamp teaching assistant and investor pitches. I explain technical things clearly.
+
+<p align="center">
+  <img src="./assets/impact.svg" width="100%" alt="Impact in numbers: about 5 times faster client onboarding; 1 to 5+ enterprise clients on one codebase; about 50% shorter feature delivery cycles; about 40% less per-client custom work; about 65% fewer failed recordings; about 70% test coverage with Jest and Cypress" />
+</p>
+
+## Experience
+
+**Software Engineer & Technical Consultant** · Bilingue.ch (client project) · Jul 2026 – present\
+Delivered a multilingual site end to end: client discovery, requirements, UX/UI design, then Next.js, TypeScript and Tailwind CSS implementation with i18n (German, French, English), technical SEO and Vercel deployments.
+
+**Full-Stack Engineer (Frontend Lead)** · Hivepower · Feb 2023 – Dec 2025
+- Built a React and TypeScript app (Ionic/Capacitor, Nx) for web, iOS and Android, and scaled it from 1 to 5+ enterprise clients with a whitelabel setup (brand themes, feature flags, i18n). Client onboarding got ~5× faster.
+- Architected a modular widget system for real-time energy data visualization (D3, Recharts, Visx), cutting per-client custom work by ~40%.
+- Improved performance by cutting unnecessary re-renders, speeding up large-dataset rendering, lazy loading, shrinking bundles and caching API responses.
+- Translated business requirements into specs with clients, design and backend, cutting feature delivery cycles by ~50%.
+- Owned releases end to end: production deployments, monitoring and resolving client-reported issues. Contributed to FastAPI services and Docker/Kubernetes/GCP pipelines.
+
+**Frontend Engineer** · ClearMix (New York, remote) · Jul 2021 – Dec 2022
+- Led development of ClearMix Logistics (Next.js, Google Maps API), a real-time scheduling and routing app.
+- Helped architect a virtual recording studio with cloud sync, reducing failed recordings by ~65%.
+- Co-built ClearMix Intros, a video-personalization feature for product-led growth, and raised test coverage to ~70% (Jest, Cypress).
 
 ## Tech stack
 
 <p align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="Tech stack. Frontend: React, TypeScript, Next.js, Ionic/Capacitor, D3, Visx, Recharts, i18n, WCAG. Backend: Node.js, Express, PostgreSQL, Supabase, FastAPI, REST APIs. Tooling: Docker, GCP, Kubernetes, Jest, Cypress, Figma." />
+  <img src="./assets/tech-stack.svg" width="100%" alt="Tech stack. Frontend: React, TypeScript, Next.js, Tailwind CSS, Redux, Ionic/Capacitor, Nx, Storybook, D3, Visx, Recharts, i18n, WCAG. Backend: Node.js, Express, REST APIs, FastAPI, PostgreSQL, Supabase, Firebase. Cloud: Docker, Kubernetes, GCP, Vercel. Tooling: Jest, Cypress, Vite, Webpack, Chrome DevTools, Figma, AI coding agents." />
 </p>
 
 ## Projects
+
+### ApplyPilot
+
+A personal job-application agent and my AI engineering playground. It discovers roles, filters them against rules, scores fit against verified experience with Claude, and prepares applications in a review workspace. It never submits on its own and never invents facts.\
+TypeScript · React + Vite · Express · PostgreSQL + Drizzle · Anthropic SDK · Vitest
+
+[Code](https://github.com/zmelina99/ApplyPilot)
+
+### Bilingue.ch
+
+<a href="https://bilingue-eta.vercel.app">
+  <img src="./assets/project-bilingue.png" width="100%" alt="Screenshot of the Bilingue homepage: a language coaching and proofreading site with a serif headline, navy buttons and a vintage engraving of readers in a library" />
+</a>
+
+A client project, delivered from discovery to deployment: a German, French and English site for language coaching and proofreading.\
+Next.js · TypeScript · Tailwind CSS · i18n · SEO · Vercel
+
+[Preview](https://bilingue-eta.vercel.app) · [Code](https://github.com/zmelina99/bilingue)
 
 ### Portfolio
 
@@ -33,13 +75,6 @@ My personal site, with an underwater theme, case studies and English, Spanish an
 Next.js · TypeScript · Tailwind CSS · shadcn/ui
 
 [Live site](https://melina-zellweger.vercel.app) · [Code](https://github.com/zmelina99/portfolio)
-
-### ApplyPilot
-
-A personal job-application agent. It discovers roles, filters them against my rules, scores fit against verified experience with Claude, and prepares applications for me to review. It never submits on its own and never invents facts.\
-TypeScript · React + Vite · Express · PostgreSQL + Drizzle · Anthropic SDK · Vitest
-
-[Code](https://github.com/zmelina99/ApplyPilot)
 
 ### Weightlifting Tracker
 
@@ -54,6 +89,13 @@ A browser racing game: hit renewable energy sources to gain 5 seconds and fossil
 Vanilla JavaScript · HTML · CSS
 
 [Code](https://github.com/zmelina99/race-to-sustainability)
+
+## Learning & beyond work
+
+- **Forward Deployed Engineering** · Henry · Nov 2026 – present
+- **Full Stack Developer bootcamp** · Henry · 2021, plus teaching assistant at Henry (2021)
+- **Languages** · Spanish (native) · English (C2) · French (B1)
+- Qualified for the 2026 Swiss National Weightlifting Championship · PADI scuba instructor · certified ski instructor
 
 ## Get in touch
 
